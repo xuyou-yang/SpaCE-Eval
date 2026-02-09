@@ -1,7 +1,12 @@
-# Anonymous Benchmark for Evaluating MLLMs in Real-World Reasoning
+# SpaCE-Eval: A Benchmark for Real-World Multi-Modal Reasoning
 
-Welcome to the official codebase for our benchmark: a dataset designed to evaluate Multi-modal Large Language Models (MLLMs) in real-world physical reasoning tasks.
+Welcome to the official codebase of SpaCE-Eval! 
 
+The [paper](https://openreview.net/forum?id=VAEkLS9VBr&noteId=QSQY2kkQHy) is accepted to ICLR 2026.
+
+
+Dataset can be downloaded at:
+https://huggingface.co/datasets/anonymous-author123/iclr2026_submission
 ## About the Benchmark
 
 This benchmark provides a comprehensive evaluation of MLLMs across the following categories:
