@@ -6,7 +6,7 @@ The [paper](https://openreview.net/forum?id=VAEkLS9VBr&noteId=QSQY2kkQHy) is acc
 
 
 Dataset can be downloaded at:
-https://huggingface.co/datasets/anonymous-author123/iclr2026_submission
+https://huggingface.co/datasets/XuyouYang/SpaCE-Eval
 ## About the Benchmark
 
 This benchmark provides a comprehensive evaluation of MLLMs across the following categories:
