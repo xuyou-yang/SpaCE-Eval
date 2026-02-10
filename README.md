@@ -50,3 +50,12 @@ To calculate accuracy from result files:
 ```python
 python calc_acc.py --jsons gpt-4o_open_router_check.json # gpt-4o accuracy
 ```
+### Citation
+
+```bibtex
+@inproceedings{yang2026spaceeval,
+  title     = {SpaCE-Eval: A Benchmark for Real-World Multi-Modal Reasoning},
+  author    = {Yang, Xuyou and Zhao, Yucheng and Zhang, Wenxuan and Koh, Immanuel},
+  booktitle = {Proceedings of the International Conference on Learning Representations (ICLR)},
+  year      = {2026}
+}
