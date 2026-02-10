@@ -34,7 +34,7 @@ To access the dataset, please clone the following temporary anonymous repository
 
 ```shell
 cd ./data
-git clone https://huggingface.co/datasets/anonymous-author123/iclr2026_submission
+git clone https://huggingface.co/datasets/XuyouYang/SpaCE-Eval
 ```
 
 To evaluate different models on the benchmark:
